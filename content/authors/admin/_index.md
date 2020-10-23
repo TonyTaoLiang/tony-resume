@@ -1,74 +1,52 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Dezhi Yu
+role: Senior Back End Engineer
+avatar_filename: avatar.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Alibaba Group
+    url: "https://www.alibaba.com/"
+superuser: true
+authors:
+  - admin
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Cloud Native
+  - Artificial Intelligence
+  - Mobile Development
+  - Computational Linguistics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - link: https://www.linkedin.com/in/halffrost/
+    icon_pack: fab
+    icon: linkedin-in
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/halfrost
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/halffrost
+  - icon: weixin
+    icon_pack: fab
+    link: https://img.halfrost.com/wechat-qr-code.png
+  - link: https://halfrost.com
+    icon_pack: fab
+    icon: phoenix-squadron
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: B.Eng in Computer Science, GPA 3.75/4.0
+      institution: Huzhou University, Zhejiang, China
+      year: 2013
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
+email: "i@halfrost.com"
 ---
+Dezhi Yu is a professional developer who focuses on Cloud Native now. He has strong knowledge of Go, Objective-C and network programming. With these skills, he created quite a few widely used applications and frameworks in the company. He also joins [](https://www.acm.org/)some organizations, becoming professional Membership of [ACM](https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf) / [IEEE](https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf) / [IEEE-CS](https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf) / CCF. He writes his personal thoughts on programming and tech in his [personal blog](https://halfrost.com) that accumulates 3.29 million PV  and 0.85 million UV. He is active on Github, which Github [world stars rank](https://gitstar-ranking.com/halfrost) 380 as well as [world followers rank](https://wangchujiang.com/github-rank/) 333. He loves algorithms and advanced mathematics, winning medals in  ACM-ICPC  and Advanced Mathematics Competition.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dezhi Yu also is a globetrotter, traveled around the world before the age of 28, and his footprints will soon cover seven continents (coming soon). He is extreme sports enthusiasts, like skydiving, skiing, diving, hot air ballooning, helicopters. He is always willing to try new things, and keeping to learn from them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Now, he works for [Alibaba Group](https://www.ele.me/) as a senior back end engineer.
